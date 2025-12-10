@@ -38,8 +38,4 @@ I explore data, build insights, and create solutions that make decision-making s
 
 ### ⚡ Fun Fact
 
-I can turn messy data into meaningful visuals — and I enjoy every second of it!
-
----
-
-If you want, I can add **icons, badges, or a minimal banner-style intro** for an even more eye-catching look.
+I can turn messy data into meaningful visuals — and I enjoy every second of it.

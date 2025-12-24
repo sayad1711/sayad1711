@@ -86,6 +86,37 @@ Here's what drives me:
 
 ---
 
+<!-- CERTIFICATIONS -->
+## Certifications
+
+<div align="center">
+
+| Certificate | Issuer | Badge |
+|-------------|--------|-------|
+| **IBM Data Science Professional Certificate** | Coursera / IBM | [![IBM Data Science](https://img.shields.io/badge/IBM-Data%20Science-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/professional-certificates/ibm-data-science) |
+
+</div>
+
+<details>
+<summary>📜 Certificate Details</summary>
+
+### IBM Data Science Professional Certificate
+- **Issuer:** IBM via Coursera
+- **Skills Covered:**
+  - Data Science Methodology
+  - Python for Data Science & AI
+  - Data Analysis with Python
+  - Data Visualization with Python
+  - Machine Learning with Python
+  - SQL & Databases
+  - Applied Data Science Capstone
+
+</details>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
 <!-- CURRENTLY LEARNING -->
 ## Currently Learning
 

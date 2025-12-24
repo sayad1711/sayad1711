@@ -9,9 +9,10 @@
 
 <!-- PROJECT LOGO -->
 <br />
+
 <div align="center">
   <a href="https://github.com/sayad1711">
-    <img src="https://avatars.githubusercontent.com/sayad1711" alt="Logo" width="120" height="120" style="border-radius: 50%;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2721/2721296.png" alt="Data Analyst Logo" width="120" height="120">
   </a>
 
   <h3 align="center">👋 Hi, I'm Sayad</h3>

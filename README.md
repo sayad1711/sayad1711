@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/sayad1711">
-    <img src="https://cdn-icons-png.flaticon.com/512/2721/2721296.png" alt="Data Analyst Logo" width="120" height="120">
+    <img src="./data-analytics-logo.png" alt="Data Analytics Logo" width="220" height="84">
   </a>
 
   <h3 align="center">👋 Hi, I'm Sayad</h3>

@@ -57,24 +57,46 @@ Here's what drives me:
 
 ---
 
+
 <!-- SKILLS & TOOLS -->
 ## Skills & Tools
+
 
 ### Languages & Databases
 [![Python][Python-badge]][Python-url]
 [![SQL][SQL-badge]][SQL-url]
-[![R][R-badge]][R-url]
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+
 
 ### Data Visualization & BI
 [![Power BI][PowerBI-badge]][PowerBI-url]
 [![Tableau][Tableau-badge]][Tableau-url]
 [![Excel][Excel-badge]][Excel-url]
+[![Apache Superset](https://img.shields.io/badge/Apache%20Superset-181717?style=for-the-badge&logo=apache-superset&logoColor=white)](https://superset.apache.org/)
+
+<details>
+<summary>🔗 <strong>Superset & PostgreSQL Integration</strong></summary>
+
+- Built interactive dashboards using <strong>Apache Superset</strong>
+- Integrated and managed <strong>PostgreSQL</strong> databases as data sources
+- Created custom visualizations and analytics for business insights
+
+</details>
 
 ### Libraries & Frameworks
 [![Pandas][Pandas-badge]][Pandas-url]
 [![NumPy][NumPy-badge]][NumPy-url]
 [![Matplotlib][Matplotlib-badge]][Matplotlib-url]
 [![Scikit-learn][Sklearn-badge]][Sklearn-url]
+
+### AI/ML Model Experience
+<ul>
+  <li><strong>Claude Opus 4.5</strong> (Anthropic)</li>
+  <li><strong>Gemini 3 Pro</strong> (Google)</li>
+  <li><strong>GPT-5.1</strong> (OpenAI)</li>
+  <li><strong>Codex</strong> (OpenAI)</li>
+</ul>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,14 +118,19 @@ Here's what drives me:
 
 ### IBM Data Science Professional Certificate
 - **Issuer:** IBM via Coursera
-- **Skills Covered:**
+- **Courses Covered:**
+  - Introduction to Data Science
+  - Tools for Data Science
   - Data Science Methodology
   - Python for Data Science & AI
+  - Python Project for Data Science
+  - SQL & Databases
   - Data Analysis with Python
   - Data Visualization with Python
   - Machine Learning with Python
-  - SQL & Databases
-  - Applied Data Science Capstone
+  - Applied Data Science Capstone Project
+  - Generative AI: Elevate Your Data Science Career
+  - Data Scientist Career Guide and Interview Preparation
 
 </details>
 

@@ -187,7 +187,7 @@ I'm always excited to collaborate on:
 **Sayad** - Data Analyst
 
 [![Email](https://img.shields.io/badge/Email-rayyanch125%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayyanch125@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-rayyan-data-analyst)
 [![GitHub](https://img.shields.io/badge/GitHub-sayad1711-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sayad1711)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -210,7 +210,9 @@ Resources and tools that have helped me on my data journey:
 
 ---
 
-<!-- GITHUB STATS -->
+
+<!--
+GITHUB STATS
 ## GitHub Stats
 
 <div align="center">
@@ -222,6 +224,7 @@ Resources and tools that have helped me on my data journey:
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+-->
 
 ---
 

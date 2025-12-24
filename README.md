@@ -150,6 +150,7 @@ Here's what drives me:
 
 ---
 
+
 <!-- PROJECTS -->
 ## Projects
 
@@ -157,9 +158,8 @@ Here are some of the projects I've been working on:
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🔗 [Project 1](#) | Data analysis project description | Python, Pandas, Power BI |
-| 🔗 [Project 2](#) | ML/AI experiment description | Python, Scikit-learn |
-| 🔗 [Project 3](#) | Dashboard project description | Power BI, SQL |
+| 🚀 [SpaceX Falcon 9 First Stage Landing Prediction](https://github.com/sayad1711/SpaceX-Falcon-9-First-Stage-Landing-Prediction) | Predicts the landing success of SpaceX Falcon 9 rockets using real launch data. Includes data collection (API & web scraping), wrangling, EDA, interactive dashboards (Dash, Folium), and machine learning models (Logistic Regression, SVM, Decision Tree, KNN). Achieved ~89% accuracy. | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Folium, Plotly, Dash, BeautifulSoup, Requests, SQL, Jupyter |
+| 📈 [Analyzing Tesla and GameStop Stock Revenue Trends](https://github.com/sayad1711/Analyzing-Tesla-and-GameStop-Stock-Revenue-Trends-with-Python-Web-Scraping-and-Dashboards) | Analyzes TSLA and GME stock price and revenue trends. Uses yfinance for stock data, web scraping for revenue, and creates interactive dashboards with Plotly. Focuses on data cleaning, merging, and visualizing financial trends for both companies. | Python, yfinance, pandas, requests, BeautifulSoup, plotly, Jupyter |
 
 _For more projects, please visit my [repositories](https://github.com/sayad1711?tab=repositories)._
 
@@ -225,17 +225,6 @@ Resources and tools that have helped me on my data journey:
 
 ---
 
-<!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/sayad1711/sayad1711.svg?style=for-the-badge
-[contributors-url]: https://github.com/sayad1711/sayad1711/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sayad1711/sayad1711.svg?style=for-the-badge
-[forks-url]: https://github.com/sayad1711/sayad1711/network/members
-[stars-shield]: https://img.shields.io/github/stars/sayad1711/sayad1711.svg?style=for-the-badge
-[stars-url]: https://github.com/sayad1711/sayad1711/stargazers
-[issues-shield]: https://img.shields.io/github/issues/sayad1711/sayad1711.svg?style=for-the-badge
-[issues-url]: https://github.com/sayad1711/sayad1711/issues
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/your-linkedin
 
 <!-- TECH BADGES -->
 [Python-badge]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white

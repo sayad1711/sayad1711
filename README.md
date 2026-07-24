@@ -10,7 +10,7 @@
     <img src="./data-analytics-logo.png" alt="Data Analytics Logo" width="220" height="84">
   </a>
 
-  <h3 align="center">👋 Hi, I'm Sayad</h3>
+  <h3 align="center">👋 Hi, I'm Rayyan</h3>
 
   <p align="center">
     <strong>Data Analyst | Aspiring Data Scientist</strong>
